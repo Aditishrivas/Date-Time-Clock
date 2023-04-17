@@ -1,0 +1,13 @@
+.block {
+    background: rgb(243, 209, 96);
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    margin-top: 50;
+    padding-top: 40px;
+    position: center;
+}
+
+.block>block-child {
+    background-color: aquamarine;
+}
